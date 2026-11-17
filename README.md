@@ -1,4 +1,6 @@
-## Hi there 👋
+## Este es el README personal de Juan Luis
+
+Aquí **formato negrita** y _cursiva_.
 
 <!--
 **astrojl-test3/astrojl-test3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
