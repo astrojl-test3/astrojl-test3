@@ -2,14 +2,6 @@
 
 Aquí **formato negrita** y _cursiva_.
 
-Nueva linea.
-
-Segunda linea.
-
-El experimento 3 va bien.
-
-Tercera linea.
-
 <!--
 **astrojl-test3/astrojl-test3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
